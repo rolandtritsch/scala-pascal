@@ -15,7 +15,7 @@ The main intention is to discuss how you can show that code it doing what it is 
 
 Means, you need to have the means to express an expectation (or requirements) and then you need to have the means to prove that your expectations/requirements have been met.
 
-I started to think about this, when I saw [Bill Venners talk on Programming by Contract](https://www.youtube.com/watch?v=LvhRYke2_LY) and while I worked through [THE Haskell book](http://haskellbook.com/) (and was exposed to [QuickCheck](https://hackage.haskell.org/package/QuickCheck)).
+I started to think about this, when I saw [Bill Venners talk on Programming by Contract](https://www.youtube.com/watch?v=LvhRYke2_LY) and while I worked through [THE Haskell book](http://haskellbook.com/) (and was exposed to [QuickCheck](https://hackage.haskell.org/package/QuickCheck) and [Jesitron's](http://jessitron.com) talk on [property-based testing](https://www.youtube.com/watch?v=shngiiBfD80)).
 
 In this context I want to think and talk about ...
 

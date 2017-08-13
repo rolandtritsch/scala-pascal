@@ -20,7 +20,7 @@ class PascalCheck extends PropSpec with PropertyChecks with Matchers {
   }
 
   property("All rows are palindromes") {
-    forAll (minSuccessful(300), workers(4)) { (row: Int) =>
+    forAll { (row: Int) =>
       whenever(
         row >= 0 && row < MaxRow
       ) {
