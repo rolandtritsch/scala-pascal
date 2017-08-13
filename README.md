@@ -1,5 +1,7 @@
 # Implementation of the Pascal Triangle (to play around with code correctness)
 
+This is an implementation of the [Pascal Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle) to facilitate a discussion about code correctness (and ways to express it).
+
 ## To make this work ...
 
 * you need to install git (e.g. `brew install git`)
@@ -30,3 +32,4 @@ In this context I want to think and talk about ...
 * programming-by-contract - [Scala.Predef](http://www.scala-lang.org/api/2.12.0/scala/Predef$.html) (require/ensuring)
 * property-based-testing - [ScalaCheck](https://www.scalacheck.org/)
 * non-functional testing - [Gatling](http://gatling.io/)
+
